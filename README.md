@@ -1,2 +1,2 @@
-# Physics-Guided_Diffusion_Model
-The code will be released when the paper is acccepted
+# Physics-Guided Diffusion Model for Vessel Trajectory Imputation
+The code will be released when the paper is accepted
